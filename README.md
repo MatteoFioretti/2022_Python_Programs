@@ -1,0 +1,1 @@
+- Hi everyone, these are Python programs I wrote during my 2022 Python class at Università La Sapienza. 
