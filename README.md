@@ -1,1 +1,2 @@
-- Hi everyone, these are Python programs I wrote during my 2022 Python class at Università La Sapienza. 
+- Hi everyone, these are Python programs I wrote during my 2022 Python class at Università La Sapienza.
+- Since these were written when I did not have much experience, the syntax might be redundant and verbose: I hope you will be kind 😁. 
